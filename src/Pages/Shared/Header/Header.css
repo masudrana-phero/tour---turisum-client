@@ -1,0 +1,11 @@
+.brand{
+    width: 80px;
+    height: 80px;
+}
+.loginBtn{
+    background-color: rgb(194, 39, 72);
+    color: wheat;
+    font-weight: bold;
+    border: 0;
+    border-radius: 4px;
+}

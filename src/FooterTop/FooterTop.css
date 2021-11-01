@@ -1,0 +1,32 @@
+
+.footer-top{
+    background-color : rgb(224, 242, 250);
+}
+
+.description{
+    padding: 150px 90px;
+}
+.description h2{
+    color: rgb(255, 127, 71);
+    font-weight: bold;
+}
+.description h4{
+    font-size: 22px;
+    font-weight: bold;
+    padding: 10px 0px;
+}
+
+input[type="email"], [type="submit"]{
+    border: 0;
+    padding: 10px 15px;
+    border-radius: 10px;
+}
+input {
+    background-color: rgb(255, 127, 71);
+    color: whitesmoke;
+    margin-left: 10px;
+}
+
+.footer-top-img{
+    width: 400px;
+}
